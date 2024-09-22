@@ -19,3 +19,5 @@ Lorsque les spectateurs touchent une lumière, celle-ci change de couleur et de 
 Lorsque les créatures (lumières) ne reçoivent pas d'interactions de la part des visiteurs, ceux-ci suivent des motifs de manière continuelles. À certain moments, une lumière change de motif, de manière a communiquer avec une autre lumière, qui répondra  à son tour.
 
 ## Effet sonore et musique d'ambiance
+
+Chaque motif lumineux, lorsqu'il y a pas d'interaction avec le visiteur, a sa propre ambiance musicale. Lorsque le spectateur interagit avec une lumière, celle-ci émet un son aléatoirement venant d'une banque de son (effet sonores). Lorsque les lumières autour de celle-ci réagissent, un son similaire et reproduit par ceux-ci. 

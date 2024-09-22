@@ -27,4 +27,5 @@ Chaque motif lumineux, lorsqu'il y a pas d'interaction avec le visiteur, a sa pr
 
 ```mermaid
 graph TD;
-    A-->B C-->D
+    A-->B 
+    C-->D

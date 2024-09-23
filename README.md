@@ -1,7 +1,4 @@
-# Présentation d'une scénarisation d'un projet multimedia: Présence
-
-
-## Idee simplifié
+# Présentation d'une scénarisation d'un projet multimedia: Umbrae Arborum
 Les spectateurs se trouvent dans un forêt magique/fantastique/d'un monde parallèle où ceux-ci interagissent avec des créatures prenant forme de végétaux.
 
 

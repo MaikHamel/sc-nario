@@ -57,9 +57,13 @@ graph TD;
 
 ## Support médiatique
 
+Lumières interactives
 
+## Matériel
 ### TOF ( time of flight ) Distance Ranging Sensor Unit
 Calcule la distance entre le point émetteur et l'objet détecté en mesurant le temps de trajet aller-retour du signal laser ( pouvant aller jusqu'à deux mêtres.
+
+Lorsque les spectateurs s'approchent des lumieres, le détecteur détecte la proximité  et fera réagir les lumieres.
 
 
 

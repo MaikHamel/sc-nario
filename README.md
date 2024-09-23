@@ -27,7 +27,7 @@ Chaque motif lumineux, lorsqu'il y a pas d'interaction avec le visiteur, a sa pr
 
 ```mermaid
 graph TD;
-    L[Le visiteur entre et admire la piece] --> A
+    L[Le visiteur entre, admire la piece et se promene dans la foret] --> A
     A{Visiteur s'approche des lumieres} --> B[Le motif des lumieres change]
     A --Le visiteur ne fait rien -->D
     A -->E[Des effets sonores se fait entendre]

@@ -48,7 +48,8 @@ graph TD;
 
 
 ## Technologies
-### TOF ( time of flight ) DIstance Ranging Sensor Unit
+### TOF ( time of flight ) Distance Ranging Sensor Unit
+Calcule la distance entre le point émetteur et l'objet détecté en mesurant le temps de trajet aller-retour du signal laser ( pouvant aller jusqu'à deux mêtres.
 
 
 

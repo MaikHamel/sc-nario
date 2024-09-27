@@ -48,11 +48,6 @@ graph TD;
 
 
 
-
-
-
-
-
 # Technologies
 
 ## Support médiatique
@@ -64,7 +59,6 @@ Lumières interactives
 Calcule la distance entre le point émetteur et l'objet détecté en mesurant le temps de trajet aller-retour du signal laser ( pouvant aller jusqu'à deux mêtres.
 
 Lorsque les spectateurs s'approchent des lumieres, le détecteur mesure la proximité de celui-ci et fera réagir les lumieres.
-
 
 
 

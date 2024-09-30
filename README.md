@@ -55,6 +55,8 @@ graph TD;
 Lumières interactives
 
 mettre plus de matériel pour avoir un environnement sensible
+
+detecteurs pour chaque branches de lumières
 ## Matériel
 ### TOF ( time of flight ) Distance Ranging Sensor Unit
 Calcule la distance entre le point émetteur et l'objet détecté en mesurant le temps de trajet aller-retour du signal laser ( pouvant aller jusqu'à deux mêtres.

@@ -71,9 +71,11 @@ Lorsque les spectateurs s'approchent des lumieres, le détecteur mesure la proxi
 ### matériel:
 - TOF
 - Paquet de 10 LED Strip WS2811
-- Arduino
+- Arduino microcontroleur
 -  Speakers
 - Subwoofer
+- 1MΩ resistor
+- Atom proto kit
 
 
 

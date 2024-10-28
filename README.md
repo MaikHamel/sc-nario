@@ -66,6 +66,16 @@ Lorsque les spectateurs s'approchent des lumieres, le détecteur mesure la proxi
 # Références
 [capacitive sensor](https://www.bareconductive.com/blogs/resources/make-a-basic-capacitive-sensor-with-electric-paint-and-arduino)<br>
 
+# synoptique
+
+### matériel:
+- TOF
+- Paquet de 10 LED Strip WS2811
+- Arduino
+-  Speakers
+- Subwoofer
+
+
 
 
 

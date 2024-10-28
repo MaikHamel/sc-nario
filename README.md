@@ -76,6 +76,46 @@ Lorsque les spectateurs s'approchent des lumieres, le détecteur mesure la proxi
 - Subwoofer
 - 1MΩ resistor
 - Atom proto kit
+- carte de son
+
+### Branchement
+
+```mermaid
+flowchart TB
+    subgraph ordinateur
+    J[comutateur ethernet] --> A
+   
+    A[ordinateur]
+    end
+    subgraph speaker
+    A --> C[carte de son]
+    C --> D[speaker]
+    C --> E[subwoofer]
+    end
+    subgraph microcontroleur
+    A --> B[microcontroleur]
+     J --> B
+   
+    end
+    subgraph capacitance
+
+    B --> F[Atom proto kit] 
+    F --> G[Zone tactile coducteur]
+    end
+    subgraph tof
+    B --> H[TOF]
+    end
+    subgraph lumiere
+    B --> I[lumiere]
+    end
+
+
+
+```
+
+
+
+
 
 
 

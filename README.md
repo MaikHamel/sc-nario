@@ -63,6 +63,9 @@ Calcule la distance entre le point émetteur et l'objet détecté en mesurant le
 
 Lorsque les spectateurs s'approchent des lumieres, le détecteur mesure la proximité de celui-ci et fera réagir les lumieres.
 
+# Références
+[capacitive sensor](https://www.bareconductive.com/blogs/resources/make-a-basic-capacitive-sensor-with-electric-paint-and-arduino)<br>
+
 
 
 

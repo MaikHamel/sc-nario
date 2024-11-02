@@ -134,3 +134,28 @@ flowchart TB
 
 ![scénarimage_repos](https://github.com/user-attachments/assets/86278ee0-8a08-4b51-b702-f482bbf2a498)
 
+
+# Devis Technique
+
+## Matériel
+- TOF(20)
+- Paquet de 10 LED Strip WS2811(20)
+- Arduino microcontroleur(20)
+-  Speakers (4)
+- Subwoofer(2)
+- 1MΩ resistor(25)
+- Atom proto kit (25)
+- carte de son (1)
+- support a plusieurs bras (8)
+- supports pour les speakers (4)
+- tape
+- cable ethernet
+- cable électrique
+
+## Logiciels
+- Ableton live
+- Arduino IDE
+- Plugdata
+- loopMIDI
+  
+

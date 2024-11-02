@@ -151,6 +151,7 @@ flowchart TB
 - tape
 - cable ethernet
 - cable électrique
+- commutateur ethernet
 - ordinateur
 
 ## Logiciels

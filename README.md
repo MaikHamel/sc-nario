@@ -153,6 +153,8 @@ flowchart TB
 - cable électrique
 - commutateur ethernet
 - ordinateur
+- fausses plantes
+- fausses plantes sur les murs
 
 ## Logiciels
 - Ableton live

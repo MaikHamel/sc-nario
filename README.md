@@ -140,9 +140,9 @@ flowchart TB
 # Devis Technique
 
 ## Matériel
-- TOF(20)
-- Paquet de 10 LED Strip WS2811(20)
-- Arduino microcontroleur(20)
+- TOF(25)
+- Paquet de 10 LED Strip WS2811(25)
+- Arduino microcontroleur(25)
 -  Speakers (4)
 - Subwoofer(2)
 - 1MΩ resistor(25)

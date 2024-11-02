@@ -151,6 +151,7 @@ flowchart TB
 - tape
 - cable ethernet
 - cable électrique
+- ordinateur
 
 ## Logiciels
 - Ableton live
